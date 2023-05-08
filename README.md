@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/cube-m4st3r/cube-m4st3r/blob/main/honkai-star-rail.gif"></img>
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Intellij+Jetbrains&pause=1000&width=435&lines=I'm+a+hobby+developer" />
 </div>
