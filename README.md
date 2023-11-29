@@ -18,6 +18,6 @@
 <div align="center">
   <br>
   Visit me on my website (work in progress)
-  <a href="https://www.cubemaster.dev">cubemaster.dev</a>
+  <a href="https://cubemaster.dev">cubemaster.dev</a>
 </div>
 
